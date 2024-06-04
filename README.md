@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=assets/fn2logo.png width="128">
+<img src=assets/fn2logo.png width="320">
 
 **# Fishnet2 Community - [description]**
 
